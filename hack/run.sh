@@ -1,2 +1,2 @@
 #!/bin/sh
-go run cmd/main.go -link $1 -output $2 -concurrence $3
+go run cmd/main.go -url $1 -output $2 -concurrence $3
