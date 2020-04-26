@@ -5,7 +5,7 @@ package crawler_test
 import (
 	"testing"
 
-	"github.com/iuryfukuda/tor-crawler/crawler"
+	"github.com/zbioe/tor-crawler/crawler"
 )
 
 func TestGetContent(t *testing.T) {

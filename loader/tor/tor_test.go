@@ -6,7 +6,7 @@ import (
 	"testing"
 	"io/ioutil"
 
-	"github.com/iuryfukuda/tor-crawler/loader/tor"
+	"github.com/zbioe/tor-crawler/loader/tor"
 )
 
 func TestGetClient(t *testing.T) {

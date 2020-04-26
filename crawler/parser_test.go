@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/iuryfukuda/tor-crawler/crawler"
+	"github.com/zbioe/tor-crawler/crawler"
 )
 
 func fileToReader(t *testing.T, rpath string) io.Reader {

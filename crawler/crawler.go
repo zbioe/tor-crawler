@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/iuryfukuda/tor-crawler/loader/tor"
+	"github.com/zbioe/tor-crawler/loader/tor"
 )
 
 type Error struct {

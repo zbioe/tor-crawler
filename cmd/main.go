@@ -5,7 +5,7 @@ import (
 	"flag"
 	"sync"
 
-	"github.com/iuryfukuda/tor-crawler/crawler"
+	"github.com/zbioe/tor-crawler/crawler"
 )
 
 type output struct {
